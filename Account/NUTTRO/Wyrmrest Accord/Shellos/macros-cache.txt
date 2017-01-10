@@ -1,0 +1,7 @@
+VER 3 0100000000000002 "leave" "SPELL_SHADOW_CHARM"
+/p thanks homies
+/leaveparty
+END
+VER 3 0100000000000001 "LFG" "INV_SWORD_04"
+/1 1 for invite
+END

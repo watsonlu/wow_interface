@@ -1,0 +1,19 @@
+
+Storyline_Data = {
+	["debug"] = {
+		["timing"] = {
+		},
+		["scaling"] = {
+			["character\\human\\male\\humanmale_hd.m2~character\\dwarf\\male\\dwarfmale_hd.m2"] = 15,
+			["character\\human\\male\\humanmale_hd.m2~creature\\blingtron\\blingtron.m2"] = 0,
+			["character\\human\\male\\humanmale_hd.m2~character\\human\\female\\humanfemale_hd.m2"] = 8,
+			["character\\human\\male\\humanmale_hd.m2~character\\nightelf\\male\\nightelfmale_hd.m2"] = -27,
+			["character\\human\\male\\humanmale_hd.m2~world\\expansion05\\doodads\\human\\doodads\\6hu_townhall_commander_navaldesk.m2"] = 0,
+			["character\\human\\male\\humanmale_hd.m2~character\\gnome\\male\\gnomemale_hd.m2"] = 80,
+		},
+	},
+	["config"] = {
+		["locale"] = "enUS",
+		["textSpeedFactor"] = 0.5,
+	},
+}

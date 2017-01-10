@@ -1,0 +1,59 @@
+VER 3 010000000000000E "Blind Focus" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] blind
+END
+VER 3 010000000000000D "Evasion Readines" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=178 Evasion, Combat Readiness
+END
+VER 3 0100000000000004 "Go Long" "ABILITY_THROW"
+/use The Pigskin
+/say Go Long %T!!!!!!!!!!!!!!!!!!!!!!1111
+wa
+END
+VER 3 0100000000000002 "JUGGNAUT" "SPELL_SHADOW_GRIMWARD"
+/cast "Killing Spree"
+END
+VER 3 0100000000000007 "Premed Ambush" "INV_MISC_QUESTIONMARK"
+#showtooltip Ambush
+/cast Premeditation
+/cast Ambush
+END
+VER 3 010000000000000A "Premed Cheap Sho" "INV_MISC_QUESTIONMARK"
+#showtooltip Cheap Shot
+/cast Premeditation
+/cast Cheap Shot
+END
+VER 3 0100000000000009 "Premed Garrote" "INV_MISC_QUESTIONMARK"
+#showtooltip Garrote
+/cast Premeditation
+/cast Garrote
+END
+VER 3 0100000000000003 "Shadow Adren" "INV_KNIFE_1H_GRIMBATOLRAID_D_03"
+#showtooltip Shadow Blades
+/cast Shadow Blades
+/cast Adrenaline Rush
+END
+VER 3 010000000000000C "Shadows Vanish" "INV_MISC_QUESTIONMARK"
+#showtooltip Cloak of Shadows
+/cast Cloak of Shadows
+/cast Vanish
+END
+VER 3 010000000000000B "Spam Sap" "INV_MISC_QUESTIONMARK"
+#showtooltip Sap
+/cast Sap 
+END
+VER 3 0100000000000005 "SS + Trinket" "INV_MISC_QUESTIONMARK"
+#Showtooltip sinister strike
+/use Dreadful Gladiator's Emblem of Tenacity
+/cast Sinister Strike
+END
+VER 3 0100000000000008 "Stealth" "INV_MISC_QUESTIONMARK"
+#showtooltip Vanish
+/stopattack
+/cast [nocombat] Stealth; Vanish
+END
+VER 3 0100000000000006 "Tricks @ focus" "SPELL_SHADOW_RITUALOFSACRIFICE"
+#showtooltip Sinister Strike
+/cast Mutilate
+/cast [@focus] Tricks of the Trade
+END

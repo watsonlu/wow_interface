@@ -1,0 +1,13 @@
+VER 3 0100000000000001 "frost freeze" "INV_MISC_QUESTIONMARK"
+#show Frostbolt
+/cast freeze
+/cast frostbolt
+END
+VER 3 0100000000000004 "Mount Macro Hems" "INV_MISC_QUESTIONMARK"
+#Showtooltip
+/cast [nomod] Raven Lord; [mod:shift] Ashen Pandaren Phoenix; [mod: ctrl] Crimson Pandaren Phoenix
+END
+VER 3 0100000000000003 "slowfall panic" "INV_MISC_QUESTIONMARK"
+#showtooltip Slow Fall
+/cast [@player]  Slow Fall
+END

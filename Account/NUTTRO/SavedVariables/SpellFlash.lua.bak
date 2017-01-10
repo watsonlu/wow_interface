@@ -1,0 +1,14 @@
+
+SpellFlashAddonConfig = {
+	["REALM"] = {
+		["Wyrmrest Accord"] = {
+			["PLAYER"] = {
+				["Beyblade"] = {
+					["selected_class_module"] = "BittensSpellFlash_Warrior",
+					["MODULE"] = {
+					},
+				},
+			},
+		},
+	},
+}

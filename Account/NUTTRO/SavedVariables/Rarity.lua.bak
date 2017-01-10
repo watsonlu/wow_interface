@@ -1,0 +1,279 @@
+
+RarityDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["trackedGroup"] = "mounts",
+			["groups"] = {
+				["pets"] = {
+					["Spiky Collar"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Bone Serpent"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Red Helper Box"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Bonkers"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Gluth's Bone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Toothy's Bucket"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Dusty Clutch of Eggs"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Leviathan Egg"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Phoenix Hatchling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Snowman Kit"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Living Sandling"] = {
+						["attempts"] = 1,
+					},
+					["collapsedGroup"] = true,
+					["Blighted Spore"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Azure Crane Chick"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Son of Animus"] = {
+						["attempts"] = 1,
+					},
+					["collapsed"] = true,
+					["Instant Arcane Sanctum Security Kit"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Ji-Kun Hatchling"] = {
+						["attempts"] = 1,
+					},
+					["Quivering Blob"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+						["attempts"] = 1,
+					},
+					["Parrot Cage (Green Wing Macaw)"] = {
+						["known"] = true,
+					},
+					["Green Helper Box"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Pygmy Direhorn"] = {
+						["dates"] = {
+							[20151230] = {
+								["time"] = 1,
+							},
+						},
+						["time"] = 1,
+						["attempts"] = 1,
+						["session"] = {
+							["time"] = 1,
+						},
+					},
+					["Savage Cub"] = {
+						["lastAttempts"] = 0,
+						["attempts"] = 227,
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+				},
+				["mounts"] = {
+					["Shadowhide Pearltusk"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Swift Brewfest Ram"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Reins of the Thundering Onyx Cloud Serpent"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Great Brewfest Kodo"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Invincible's Reins"] = {
+						["attempts"] = 18,
+					},
+					["Experiment 12-B"] = {
+						["attempts"] = 1,
+					},
+					["Reins of the Green Proto-Drake"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Fiery Warhorse's Reins"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Bristling Hellboar"] = {
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 227,
+						["lastAttempts"] = 0,
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+					["Wild Goretusk"] = {
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 227,
+						["lastAttempts"] = 0,
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+					["collapsed"] = false,
+					["collapsedGroup"] = true,
+					["Reins of the Azure Drake"] = {
+						["attempts"] = 1,
+					},
+					["Warsong Direfang"] = {
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 1,
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+					["Reins of the Raven Lord"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Garn Nighthowl"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Onyxian Drake"] = {
+						["attempts"] = 3,
+					},
+					["Solar Spirehawk"] = {
+						["attempts"] = 4,
+					},
+					["Reins of the Blue Drake"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Deathcharger's Reins"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Reins of the Grand Black War Mammoth Alliance"] = {
+						["attempts"] = 4,
+					},
+					["Tundra Icehoof"] = {
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 1,
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+					["Reins of the Blazing Drake"] = {
+						["time"] = 1,
+						["dates"] = {
+							[20151230] = {
+								["time"] = 1,
+							},
+						},
+						["session"] = {
+							["time"] = 1,
+						},
+						["attempts"] = 1,
+					},
+					["Armored Razorback"] = {
+						["dates"] = {
+							[20151230] = {
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 1,
+						["session"] = {
+							["attempts"] = 1,
+						},
+					},
+				},
+				["items"] = {
+					["collapsed"] = true,
+				},
+			},
+			["trackedItem"] = 116669,
+			["minimap"] = {
+				["hide"] = false,
+			},
+			["sortMode"] = "SORT_NAME",
+			["lastRevision"] = 500,
+		},
+	},
+}

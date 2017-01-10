@@ -1,0 +1,18 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Beyblade - Wyrmrest Accord"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 234.323619399101,
+			},
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+			},
+		},
+	},
+}

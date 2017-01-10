@@ -1,0 +1,29 @@
+
+BloodShieldTrackerDB = {
+	["profileKeys"] = {
+		["Havlat - Wyrmrest Accord"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["profile_version"] = 4,
+			["bars"] = {
+				["AMSBar"] = {
+				},
+				["BoneWallBar"] = {
+				},
+				["HealthBar"] = {
+				},
+				["BoneShieldBar"] = {
+				},
+				["IllumBar"] = {
+				},
+				["PurgatoryBar"] = {
+				},
+				["ShieldBar"] = {
+				},
+				["BloodChargeBar"] = {
+				},
+			},
+		},
+	},
+}

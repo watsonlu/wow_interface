@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Zapdos - Wyrmrest Accord"] = "Zapdos - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Zapdos - Wyrmrest Accord"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Zapdos - Wyrmrest Accord"] = "Zapdos - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Zapdos - Wyrmrest Accord"] = {
+		},
+	},
+}

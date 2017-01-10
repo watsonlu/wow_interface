@@ -1,0 +1,20 @@
+
+TabardAddictConfig_v2 = {
+	["CB_HO"] = true,
+	["CB_SUGG_ACH"] = true,
+	["CB_Other"] = true,
+	["CB_INFO_EQUIP"] = true,
+	["CB_SUGG_QST"] = true,
+	["CB_MOPF"] = true,
+	["CB_AO"] = true,
+	["CB_TCG"] = true,
+	["CB_SUGG_CUR"] = true,
+	["CB_WOD"] = true,
+	["CB_EQ"] = true,
+	["CB_CF"] = true,
+	["CB_ATF"] = true,
+	["CB_WotLKF"] = true,
+	["CB_BCF"] = true,
+	["CB_PVP"] = true,
+	["CB_NA"] = true,
+}

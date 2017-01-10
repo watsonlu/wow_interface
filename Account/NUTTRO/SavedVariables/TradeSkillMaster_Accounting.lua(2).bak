@@ -1,0 +1,45 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["itemStrings"] = {
+			["Witchberries"] = "item:74846:0:0:0:0:0:0",
+			["Scallions"] = "item:74843:0:0:0:0:0:0",
+			["Jade Squash"] = "item:74847:0:0:0:0:0:0",
+			["Striped Melon"] = "item:74848:0:0:0:0:0:0",
+			["Pink Turnip"] = "item:74849:0:0:0:0:0:0",
+			["Void Sphere"] = "item:22459:0:0:0:0:0:0",
+			["Timeless Cloth Boots"] = "item:102285:0:0:0:0:0:0",
+			["Enchanting Vellum"] = "item:38682:0:0:0:0:0:0",
+			["Mantid Elixir"] = "item:76075:0:0:0:0:0:0",
+			["Small Radiant Shard"] = "item:11177:0:0:0:0:0:0",
+			["Spirit Dust"] = "item:74249:0:0:0:0:0:0",
+			["Mysterious Essence"] = "item:74250:0:0:0:0:0:0",
+			["Time-Worn Journal"] = "item:103977:0:0:0:0:0:0",
+			["Deeprock Salt"] = "item:8150:0:0:0:0:0:0",
+			["Tome of the Clear Mind"] = "item:79249:0:0:0:0:0:0",
+			["Dark Iron Residue"] = "item:18945:0:0:0:0:0:0",
+			["Infinite Dust"] = "item:34054:0:0:0:0:0:0",
+			["Shiny Bauble"] = "item:6529:0:0:0:0:0:0",
+			["Blood Spirit"] = "item:80433:0:0:0:0:0:0",
+			["Mushan Ribs"] = "item:74834:0:0:0:0:0:0",
+			["Enchant Boots - Pandaren's Step"] = "item:74718:0:0:0:0:0:0",
+			["Superior Mana Potion"] = "item:13443:0:0:0:0:0:0",
+		},
+	},
+	["profileKeys"] = {
+		["Gleason - Darkspear"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Darkspear"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time",
+			["goldLog"] = {
+				["Gleason"] = "startMinute,endMinute,copper\n23290100,23290101,90000000",
+			},
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

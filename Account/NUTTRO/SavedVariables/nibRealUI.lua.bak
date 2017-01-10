@@ -1,0 +1,225 @@
+
+nibRealUIDB = {
+	["profileKeys"] = {
+		["Riems - Darkspear"] = "RealUI",
+	},
+	["namespaces"] = {
+		["Pitch"] = {
+		},
+		["WorldMarker"] = {
+		},
+		["StatDisplay"] = {
+		},
+		["AuraTracking"] = {
+		},
+		["PetBattles"] = {
+		},
+		["Chat"] = {
+			["profiles"] = {
+				["RealUI"] = {
+					["modules"] = {
+						["history"] = {
+						},
+						["tabs"] = {
+						},
+					},
+				},
+			},
+		},
+		["SkinDXE"] = {
+		},
+		["ClassResource_BloodShield"] = {
+		},
+		["MinimapAdv"] = {
+		},
+		["PlayerShields"] = {
+		},
+		["ErrorHider"] = {
+		},
+		["Fonts"] = {
+		},
+		["RavenBorders"] = {
+		},
+		["ClassResource_Vengeance"] = {
+		},
+		["GridLayout"] = {
+		},
+		["EventNotifier"] = {
+		},
+		["CurrencyTip"] = {
+			["global"] = {
+				["currency"] = {
+					["Darkspear"] = {
+						["Alliance"] = {
+							["Riems"] = {
+								[395] = 1071,
+								[396] = 158,
+								[777] = 5697,
+								[614] = 10,
+								["class"] = "ROGUE",
+								[515] = 77,
+								[402] = 1,
+								[391] = 3,
+								[615] = 1,
+								[392] = 919,
+								[738] = 169,
+								[697] = 13,
+								["lastSeen"] = 1393696347,
+							},
+						},
+					},
+				},
+			},
+		},
+		["ScreenSaver"] = {
+		},
+		["MirrorBar"] = {
+		},
+		["ClassResource_EclipseBar"] = {
+		},
+		["Loot"] = {
+			["profiles"] = {
+				["RealUI"] = {
+					["loot"] = {
+					},
+				},
+			},
+		},
+		["WatchFrame Adv."] = {
+		},
+		["InfoLine"] = {
+			["global"] = {
+				["currency"] = {
+					["Darkspear"] = {
+						["Alliance"] = {
+							["Riems"] = {
+								["vp"] = 158,
+								["bpCurrencies"] = {
+									{
+										["name"] = "Honor Points",
+										["amnt"] = 919,
+									}, -- [1]
+									{
+										["name"] = "Justice Points",
+										["amnt"] = 1071,
+									}, -- [2]
+									{
+										["name"] = "Timeless Coin",
+										["amnt"] = 5697,
+									}, -- [3]
+								},
+								["jp"] = 1071,
+								["class"] = "ROGUE",
+								["hp"] = 919,
+								["updated"] = "1/03",
+								["gold"] = 26140993,
+								["level"] = 90,
+								["cp"] = 0,
+							},
+						},
+					},
+				},
+			},
+		},
+		["CooldownCount"] = {
+		},
+		["SkinDBM"] = {
+		},
+		["ClassResource_Stagger"] = {
+		},
+		["PointTracking"] = {
+			["profiles"] = {
+				["RealUI"] = {
+					["WARLOCK"] = {
+						["types"] = {
+							["be"] = {
+							},
+							["ss"] = {
+							},
+						},
+					},
+					["PALADIN"] = {
+						["types"] = {
+							["hp"] = {
+							},
+						},
+					},
+					["GENERAL"] = {
+						["types"] = {
+							["cp"] = {
+							},
+						},
+					},
+					["combatfader"] = {
+					},
+				},
+			},
+		},
+		["Positioners"] = {
+		},
+		["ClassResource_DemonicFury"] = {
+		},
+		["UnitFrames"] = {
+		},
+		["CastBars"] = {
+		},
+		["ActionBarDoodads"] = {
+		},
+		["FrameMover"] = {
+			["profiles"] = {
+				["RealUI"] = {
+					["uiframes"] = {
+						["zonetext"] = {
+						},
+						["errorframe"] = {
+						},
+						["playerpowerbaralt"] = {
+						},
+						["vsi"] = {
+						},
+					},
+				},
+			},
+		},
+		["AltPowerBar"] = {
+		},
+		["AddonControl"] = {
+		},
+		["RuneDisplay"] = {
+		},
+		["SpeechBubbles"] = {
+		},
+		["RaidDebuffs"] = {
+		},
+		["CombatFader"] = {
+		},
+	},
+	["global"] = {
+		["minipatches"] = {
+			1, -- [1]
+			2, -- [2]
+			6, -- [3]
+			8, -- [4]
+			9, -- [5]
+			12, -- [6]
+			16, -- [7]
+			21, -- [8]
+		},
+		["tutorial"] = {
+			["stage"] = 0,
+		},
+		["tags"] = {
+			["firsttime"] = false,
+			["retinaDisplay"] = {
+				["checked"] = true,
+			},
+		},
+	},
+	["profiles"] = {
+		["RealUI"] = {
+			["registeredChars"] = {
+				["Riems - Darkspear"] = true,
+			},
+		},
+	},
+}

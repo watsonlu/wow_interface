@@ -1,0 +1,24 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.5.0",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Beyblade - Wyrmrest Accord"] = {
+		},
+	},
+}

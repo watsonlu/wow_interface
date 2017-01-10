@@ -1,0 +1,285 @@
+
+MasqueDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Real - Zul'jin"] = "RealUI",
+		["Riems - Darkspear"] = "RealUI",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["Bartender4_StanceBar"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_Vehicle"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_1"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_3"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_NestIcons"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_2"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_BagBar"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_4"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_10"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_9"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_5"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_MicroMenu"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_6"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_7"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_8"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_PetBar"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Masque"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+			},
+		},
+		["RealUI"] = {
+			["Groups"] = {
+				["Raven_FocusBuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_PlayerBuffsExtra"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_StanceBar"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_TargetBuffsExtraPvP"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_TargetBuffsExtra2"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_1"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_3"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_TargetBuffsExtra"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["SBF"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_FocusBuffsExtra"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_Buffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_5"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_MicroMenu"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_TargetDebuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_PlayerDebuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_Buffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_6"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_ToTDebuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_TargetBuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_Vehicle"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_PlayerBuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_PetBuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_PlayerDebuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_ToTDebuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["SBF_TargetBuffsMy"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_BagBar"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_Debuffs"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Raven"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_TargetDebuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_TargetDebuffsExtra"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_PetBar"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_FocusBuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Bartender4_2"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_NestIcons"] = {
+					["Fonts"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_PlayerBuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Bartender4_4"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["SBF_FocusDebuffs"] = {
+					["Fonts"] = true,
+					["SkinID"] = "RealUI",
+				},
+				["Raven_FocusDebuffs"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Raven_ToTDebuffsExtra"] = {
+					["SkinID"] = "RealUI",
+					["Inherit"] = false,
+				},
+				["Masque"] = {
+					["Fonts"] = true,
+					["Backdrop"] = true,
+					["SkinID"] = "RealUI",
+				},
+			},
+		},
+	},
+}

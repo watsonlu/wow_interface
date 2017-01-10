@@ -1,0 +1,394 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 20366427,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DEATHKNIGHT",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["time"] = 201,
+				["interrupts"] = 0,
+				["damage"] = 20366427,
+				["damagespells"] = {
+					["Howling Blast"] = {
+						["min"] = 26249,
+						["max"] = 68943,
+						["hit"] = 55,
+						["totalhits"] = 58,
+						["id"] = 49184,
+						["MISS"] = 3,
+						["damage"] = 2049418,
+					},
+					["Frost Strike"] = {
+						["min"] = 59979,
+						["critical"] = 15,
+						["hit"] = 31,
+						["totalhits"] = 46,
+						["id"] = 49143,
+						["max"] = 192271,
+						["damage"] = 5043138,
+					},
+					["Frost Fever"] = {
+						["min"] = 9873,
+						["critical"] = 1,
+						["hit"] = 152,
+						["totalhits"] = 153,
+						["id"] = 55095,
+						["max"] = 20338,
+						["damage"] = 1540986,
+					},
+					["Blood Plague"] = {
+						["min"] = 6418,
+						["critical"] = 3,
+						["hit"] = 30,
+						["totalhits"] = 33,
+						["id"] = 55078,
+						["max"] = 13223,
+						["damage"] = 238448,
+					},
+					["Icy Touch"] = {
+						["min"] = 20298,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 45477,
+						["max"] = 20311,
+						["damage"] = 40609,
+					},
+					["Plague Strike"] = {
+						["min"] = 33441,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 45462,
+						["max"] = 36279,
+						["damage"] = 105152,
+					},
+					["Obliterate"] = {
+						["min"] = 124485,
+						["critical"] = 16,
+						["hit"] = 20,
+						["totalhits"] = 36,
+						["id"] = 49020,
+						["max"] = 359530,
+						["damage"] = 7841539,
+					},
+					["Attack"] = {
+						["min"] = 24238,
+						["glancing"] = 3,
+						["critical"] = 4,
+						["hit"] = 84,
+						["totalhits"] = 91,
+						["id"] = 6603,
+						["max"] = 84385,
+						["damage"] = 3507137,
+					},
+				},
+				["deaths"] = {
+					{
+						["ts"] = 1412139090.14511,
+						["maxhp"] = 541581,
+						["log"] = {
+							{
+								["ts"] = 1412139064.71901,
+								["amount"] = -43685,
+								["hp"] = 497896,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [1]
+							{
+								["ts"] = 1412139064.85802,
+								["amount"] = -94632,
+								["hp"] = 403264,
+								["spellid"] = 133017,
+								["srcname"] = "Battle-Mine",
+							}, -- [2]
+							{
+								["ts"] = 1412139068.33803,
+								["amount"] = -43037,
+								["hp"] = 360227,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [3]
+							{
+								["ts"] = 1412139071.95204,
+								["amount"] = -47180,
+								["hp"] = 313047,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [4]
+							{
+								["ts"] = 1412139075.56705,
+								["amount"] = -44208,
+								["hp"] = 268839,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [5]
+							{
+								["ts"] = 1412139079.15106,
+								["amount"] = -47379,
+								["hp"] = 221460,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [6]
+							{
+								["ts"] = 1412139081.23807,
+								["amount"] = -94388,
+								["hp"] = 127072,
+								["spellid"] = 133017,
+								["srcname"] = "Battle-Mine",
+							}, -- [7]
+							{
+								["ts"] = 1412139082.79608,
+								["amount"] = -45581,
+								["hp"] = 81491,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [8]
+							{
+								["ts"] = 1412139086.43609,
+								["amount"] = -42814,
+								["hp"] = 38677,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [9]
+							{
+								["ts"] = 1412139089.9641,
+								["amount"] = -42035,
+								["hp"] = 1,
+								["spellid"] = 133038,
+								["srcname"] = "Battletron",
+							}, -- [10]
+							{
+								["spellname"] = "Havlat dies",
+								["ts"] = 1412139090.14511,
+								["spellid"] = 41220,
+								["hp"] = 0,
+							}, -- [11]
+							["pos"] = 12,
+						},
+					}, -- [1]
+				},
+				["damagetaken"] = 544939,
+				["deathlog"] = {
+				},
+				["id"] = "0x018000000699AEA8",
+				["power"] = {
+				},
+				["damagetakenspells"] = {
+					["Explode"] = {
+						["crushing"] = 0,
+						["id"] = 133017,
+						["min"] = 94388,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Explode",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 94632,
+						["damage"] = 189020,
+					},
+					["Zot!"] = {
+						["crushing"] = 0,
+						["id"] = 133038,
+						["min"] = 42035,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Zot!",
+						["blocked"] = 0,
+						["totalhits"] = 8,
+						["resisted"] = 0,
+						["max"] = 47379,
+						["damage"] = 355919,
+					},
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "Havlat",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["auras"] = {
+					["Blood Charge"] = {
+						["name"] = "Blood Charge",
+						["active"] = 1,
+						["id"] = 114851,
+						["auratype"] = "BUFF",
+						["uptime"] = 189,
+					},
+					["Pillar of Frost"] = {
+						["name"] = "Pillar of Frost",
+						["active"] = 0,
+						["id"] = 51271,
+						["auratype"] = "BUFF",
+						["uptime"] = 19,
+					},
+					["Physical Vulnerability"] = {
+						["name"] = "Physical Vulnerability",
+						["active"] = 4,
+						["id"] = 81326,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 193,
+					},
+					["Blood Plague"] = {
+						["name"] = "Blood Plague",
+						["active"] = 1,
+						["id"] = 55078,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 106,
+					},
+					["Frost Fever"] = {
+						["name"] = "Frost Fever",
+						["active"] = 4,
+						["id"] = 55095,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 195,
+					},
+					["Alacrity"] = {
+						["name"] = "Alacrity",
+						["active"] = 0,
+						["id"] = 126657,
+						["auratype"] = "BUFF",
+						["uptime"] = 60,
+					},
+					["Horn of Winter"] = {
+						["name"] = "Horn of Winter",
+						["active"] = 0,
+						["id"] = 57330,
+						["auratype"] = "BUFF",
+						["uptime"] = 41,
+					},
+					["Killing Machine"] = {
+						["name"] = "Killing Machine",
+						["active"] = 1,
+						["id"] = 51124,
+						["auratype"] = "BUFF",
+						["uptime"] = 92,
+					},
+					["Freezing Fog"] = {
+						["name"] = "Freezing Fog",
+						["active"] = 0,
+						["id"] = 59052,
+						["auratype"] = "BUFF",
+						["uptime"] = 24,
+					},
+				},
+				["maxhp"] = 541581,
+			}, -- [1]
+		},
+		["deaths"] = 1,
+		["mobs"] = {
+			["Training Dummy"] = {
+				["players"] = {
+					["Havlat"] = {
+						["taken"] = 14771718,
+						["done"] = 0,
+						["class"] = "DEATHKNIGHT",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 14771718,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Battle-Mine"] = {
+				["players"] = {
+					["Havlat"] = {
+						["taken"] = 0,
+						["done"] = 189020,
+						["class"] = "DEATHKNIGHT",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 189020,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stormwind Rat"] = {
+				["players"] = {
+					["Havlat"] = {
+						["taken"] = 78747,
+						["done"] = 0,
+						["class"] = "DEATHKNIGHT",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 78747,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Battletron"] = {
+				["players"] = {
+					["Havlat"] = {
+						["taken"] = 3813079,
+						["done"] = 355919,
+						["class"] = "DEATHKNIGHT",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 3813079,
+				["done"] = 355919,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Raider's Training Dummy"] = {
+				["players"] = {
+					["Havlat"] = {
+						["taken"] = 1702883,
+						["done"] = 0,
+						["class"] = "DEATHKNIGHT",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1702883,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 20366427,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1412138785,
+		["damagetaken"] = 544939,
+		["mobhdone"] = 0,
+		["last_action"] = 1412138785,
+		["mobdone"] = 544939,
+	},
+	["sets"] = {
+	},
+}

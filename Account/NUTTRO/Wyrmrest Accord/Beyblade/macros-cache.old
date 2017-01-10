@@ -1,0 +1,78 @@
+VER 3 0100000000000012 "artifact" "132130"
+/run print(IsQuestFlaggedCompleted(44311)) 
+/run print(IsQuestFlaggedCompleted(44312)) 
+END
+VER 3 010000000000000B "Bloodstorm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura bladestorm
+/use [talent:6/1]Avatar;[talent:6/2]Bloodbath;[talent:6/3]Bladestorm
+END
+VER 3 0100000000000005 "cancelaura" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Bladestorm
+END
+VER 3 010000000000000F "charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:shift] Heroic Leap; Charge
+END
+VER 3 0100000000000006 "Charge Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:shift] Heroic Leap; Intercept
+END
+VER 3 0100000000000018 "intercept 2" "136186"
+#showtooltip
+/cast [help, nodead][@target]Intercept;[mod:shift]Heroic Leap
+END
+VER 3 0100000000000016 "ItemSet" "136230"
+/amr equip 2
+END
+VER 3 0100000000000014 "Lazy Smash" "ABILITY_WARRIOR_COLOSSUSSMASH"
+#showtooltip Colossus Smash
+/cast Focused Rage
+/cast Colossus Smash
+END
+VER 3 0100000000000015 "Lazy Strike" "INV_MISC_QUESTIONMARK"
+#Showtooltip Mortal Strike
+/cast Focused Rage
+/cast Mortal Strike
+END
+VER 3 0100000000000007 "Mocking" "INV_MISC_QUESTIONMARK"
+#showtooltip Mocking Banner
+/targetexact Mocking Banner
+/cast [noraid, noparty, noharm] Intervene
+/targetlasttarget [noraid, noparty, noharm, exists]
+/cast Mocking Banner
+END
+VER 3 010000000000000A "Mount Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Crimson Pandaren Phoenix; [nomod]Stormpike Battle Charger;[mod:ctrl] Grand Expedition Yak
+END
+VER 3 0100000000000017 "mouseover taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Taunt
+/cast [@mouseover,harm,nodead][@target]Taunt
+END
+VER 3 0100000000000011 "Pummell" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Pummel
+END
+VER 3 010000000000000E "RoarStormbolt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [talent:4/1]Stormbolt;[talent:4/2]Shockwave;[talent:4/3]Dragon Roar
+END
+VER 3 0100000000000013 "Shock or Storm" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use [talent:1/1]Shockwave;Storm Bolt
+END
+VER 3 0100000000000010 "vic rush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Victory Rush
+END
+VER 3 0100000000000002 "Vilience" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use [talent:5/1]Mass Spell Reflection;[talent:5/2]Safeguard;[talent:5/3][nomod] Vigilance; [mod:shift, @mouseover] Vigilance
+END

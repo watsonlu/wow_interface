@@ -1,0 +1,37 @@
+
+KuiNameplatesGDB = {
+	["namespaces"] = {
+		["CastBar"] = {
+		},
+		["CastWarnings"] = {
+		},
+		["ComboPoints"] = {
+		},
+		["Auras"] = {
+			["profiles"] = {
+				["RealUI"] = {
+					["enabled"] = true,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Real - Zul'jin"] = "RealUI",
+		["Riems - Darkspear"] = "RealUI",
+	},
+	["profiles"] = {
+		["RealUI"] = {
+			["fonts"] = {
+				["options"] = {
+					["fontscale"] = 0.6243767738342285,
+					["font"] = "pixel_small",
+					["monochrome"] = true,
+					["onesize"] = true,
+				},
+			},
+			["fade"] = {
+				["smooth"] = false,
+			},
+		},
+	},
+}

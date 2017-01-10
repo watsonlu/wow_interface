@@ -1,0 +1,20 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["global"] = {
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Wyrmrest Accord.Beyblade"] = {
+				["guildName"] = "Thralls Wet Dream",
+				["faction"] = "Alliance",
+			},
+		},
+		["Guilds"] = {
+			["Default.Wyrmrest Accord.Thralls Wet Dream"] = {
+				["faction"] = "Alliance",
+			},
+		},
+	},
+}

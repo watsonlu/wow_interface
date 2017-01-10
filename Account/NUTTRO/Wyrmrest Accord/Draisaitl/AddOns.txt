@@ -1,0 +1,7 @@
+BadBoy: enabled
+BadBoy_Guilded: disabled
+BadBoy_CCleaner: enabled
+DBM-Core: enabled
+OPie: enabled
+Rarity: enabled
+Rarity_Options: enabled

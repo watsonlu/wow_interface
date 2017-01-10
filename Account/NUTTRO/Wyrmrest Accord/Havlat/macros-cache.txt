@@ -1,0 +1,28 @@
+VER 3 0100000000000008 "Boner Shield" "INV_MACE_2H_ORGRIMMARRAID_D_01"
+#show Death Strike
+/cast Bone Shield
+/cast Death Strike
+END
+VER 3 010000000000000C "Death Grip Train" "INV_MISC_QUESTIONMARK"
+#show Death Grip
+/cast death grip
+/train
+END
+VER 3 010000000000000D "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Crimson Pandaren Phoenix; [nomod] Rivendare's Deathcharger; [mod:ctrl] Sunhide Gronnling
+END
+VER 3 0100000000000009 "Shield and Horn" "INV_MISC_QUESTIONMARK"
+/castsequence reset=20 Horn of Winter, Bone Shield
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+/cast Remorseless Winter
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#show death pact
+/cast Raise Dead
+/cast Death Pact
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+/cast Death's Advance
+END

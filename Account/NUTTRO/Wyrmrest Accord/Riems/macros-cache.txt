@@ -1,0 +1,19 @@
+VER 3 0100000000000003 "burstofpocket" "INV_MISC_QUESTIONMARK"
+#showtooltip Pick pocket
+/cleartarget
+/use [@mouseover,harm,nodead]Sap
+/use [@mouseover,harm,nodead]Pick Pocket
+/use Burst of Speed
+END
+VER 3 0100000000000002 "DinyCoin" "INV_MISC_QUESTIONMARK"
+/run c=GetItemCount print(c(112995)*2+c(112996)*3+c(112997)*4+c(113000)*4+c(112998)*5+c(113001)*6+c(112999)*6+c(113004)*6+c(113002)*8+c(113003)*10+c(113005)*12+c(113006)*18+c(113008)*20+c(113007)*20)
+END
+VER 3 0100000000000005 "Equip Fangs" "INV_THROWINGKNIFE_02"
+END
+VER 3 0100000000000004 "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Crimson Pandaren Phoenix; [nomod] Brown Horse; [mod:ctrl] Sunhide Gronnling
+END
+VER 3 0100000000000001 "Stealth Vanish" "INV_MISC_QUESTIONMARK"
+/cast [nocombat] Stealth; Vanish 
+END

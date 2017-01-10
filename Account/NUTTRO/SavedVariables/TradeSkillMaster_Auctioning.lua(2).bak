@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Gleason - Darkspear"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Darkspear"] = {
+			["player"] = {
+				["Gleason"] = true,
+			},
+		},
+	},
+}

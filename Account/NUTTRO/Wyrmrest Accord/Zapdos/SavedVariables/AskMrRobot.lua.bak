@@ -1,0 +1,70 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Zapdos",
+	["Race"] = "NightElf",
+	["ActiveSpec"] = 1,
+	["Level"] = 91,
+	["Equipped"] = {
+		{
+			"|cff0070dd|Hitem:112666:0:0:0:0:0:0:0:91:0:11:0|h[Voidgazer Headcover]|h|r", -- [1]
+			"|cff0070dd|Hitem:118767:0:0:0:0:0:0:0:91:0:11:0|h[Necklace of Celerity]|h|r", -- [2]
+			"|cff1eff00|Hitem:117091:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Shoulders]|h|r", -- [3]
+			nil, -- [4]
+			"|cff0070dd|Hitem:112441:0:0:0:0:0:0:0:91:0:11:0|h[Slavebreaker Tunic]|h|r", -- [5]
+			"|cff1eff00|Hitem:117092:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Waistband]|h|r", -- [6]
+			"|cff0070dd|Hitem:112433:0:0:0:0:0:0:0:91:0:11:0|h[Hollowheart Trousers]|h|r", -- [7]
+			"|cff1eff00|Hitem:117087:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Boots]|h|r", -- [8]
+			"|cff1eff00|Hitem:117093:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Bindings]|h|r", -- [9]
+			"|cff1eff00|Hitem:112812:0:0:0:0:0:0:0:91:0:1:0|h[Softfinger Grips]|h|r", -- [10]
+			"|cff1eff00|Hitem:117083:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Ring of Wisdom]|h|r", -- [11]
+			"|cff0070dd|Hitem:118762:0:0:0:0:0:0:0:91:0:11:0|h[Portal-Breaker's Band]|h|r", -- [12]
+			"|cffa335ee|Hitem:118778:0:0:0:0:0:0:0:91:0:0:0|h[Ironmender's Totem]|h|r", -- [13]
+			"|cff1eff00|Hitem:117084:0:0:0:0:0:0:0:91:0:0:0|h[Springrain Stone of Wisdom]|h|r", -- [14]
+			"|cff0070dd|Hitem:118772:0:0:0:0:0:0:0:91:0:11:0|h[Frostshaper Cape]|h|r", -- [15]
+			"|cff1eff00|Hitem:108918:0:0:0:0:0:0:0:91:0:11:0|h[Karabor Arcanist Rod]|h|r", -- [16]
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "US",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 1,
+		["_lastZone"] = "SMV Alliance Garrison Level 1",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Wyrmrest Accord",
+	["Class"] = "DRUID",
+}

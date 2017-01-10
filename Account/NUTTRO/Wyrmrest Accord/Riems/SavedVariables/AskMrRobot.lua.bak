@@ -1,0 +1,71 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Riems",
+	["Race"] = "Human",
+	["ActiveSpec"] = 1,
+	["Level"] = 91,
+	["Equipped"] = {
+		{
+			"|cffa335ee|Hitem:105803:0:5032:4594:0:0:0:0:91:491:0:0|h[Stickney's Grey-Shade Hood]|h|r", -- [1]
+			"|cffa335ee|Hitem:102678:0:0:0:0:0:0:61612544:91:0:0:0|h[Prideful Gladiator's Necklace of Proficiency]|h|r", -- [2]
+			"|cffa335ee|Hitem:112783:0:0:0:0:0:0:0:91:491:3:0|h[Shoulderguards of the Righteous Stand]|h|r", -- [3]
+			nil, -- [4]
+			"|cffa335ee|Hitem:99006:4419:4643:4643:4643:0:0:0:91:491:0:0|h[Tunic of the Barbed Assassin]|h|r", -- [5]
+			"|cffa335ee|Hitem:105137:0:0:0:0:0:0:608470400:91:491:0:0|h[Cord of Black Dreams]|h|r", -- [6]
+			"|cffa335ee|Hitem:105031:0:0:0:0:0:0:2036623104:91:491:0:0|h[Riou's Vigilant Leggings]|h|r", -- [7]
+			"|cffa335ee|Hitem:104933:4428:4643:0:0:0:0:1864920704:91:491:0:0|h[Stonetoe's Tormented Treads]|h|r", -- [8]
+			"|cffa335ee|Hitem:102754:0:0:0:0:0:0:0:91:0:0:0|h[Prideful Gladiator's Armwraps of Alacrity]|h|r", -- [9]
+			"|cffa335ee|Hitem:99113:4430:4643:4643:0:0:0:922208640:91:493:0:0|h[Gloves of the Barbed Assassin]|h|r", -- [10]
+			"|cff0070dd|Hitem:118742:0:0:0:0:0:0:0:91:0:0:0|h[Burning Band]|h|r", -- [11]
+			"|cffa335ee|Hitem:117364:0:0:0:0:0:0:0:91:0:1:1:573|h[Seal of Ghoulish Glee]|h|r", -- [12]
+			"|cffa335ee|Hitem:104974:0:0:0:0:0:0:2114827520:91:491:0:0|h[Assurance of Consequence]|h|r", -- [13]
+			"|cffa335ee|Hitem:95665:0:0:0:0:0:0:1023876352:91:465:0:0|h[Bad Juju]|h|r", -- [14]
+			"|cffff8000|Hitem:102248:0:0:0:0:0:0:0:91:493:0:0|h[Fen-Yu, Fury of Xuen]|h|r", -- [15]
+			"|cffa335ee|Hitem:112547:4444:4632:0:0:0:0:0:91:491:3:0|h[Norushen's Shortblade]|h|r", -- [16]
+			"|cffa335ee|Hitem:105103:4444:4632:0:0:0:0:1861350784:91:492:0:0|h[Hvitserk's Formidable Shanker]|h|r", -- [17]
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "US",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Eastern Kingdoms",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Wyrmrest Accord",
+	["Class"] = "ROGUE",
+}

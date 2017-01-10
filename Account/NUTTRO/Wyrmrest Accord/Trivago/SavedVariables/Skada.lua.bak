@@ -1,0 +1,310 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 0,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DEMONHUNTER",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["role"] = "NONE",
+				["time"] = 0,
+				["interrupts"] = 0,
+				["power"] = {
+				},
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["maxhp"] = 509160,
+				["damagetaken"] = 0,
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 509160,
+						["ts"] = 1470959053.013,
+						["spellid"] = 114852,
+						["srcname"] = "Angelixal",
+					}, -- [1]
+					["pos"] = 2,
+				},
+				["id"] = "Player-1171-07C065E8",
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+				},
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["name"] = "Trivago",
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Kelthos"] = {
+				["players"] = {
+				},
+				["hdone"] = 40547,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 6181,
+						["crits"] = 0,
+						["max"] = 8592,
+						["healing"] = 23364,
+						["overhealing"] = 2410,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 23364,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 6181,
+						["crits"] = 0,
+						["max"] = 8592,
+						["healing"] = 40547,
+						["overhealing"] = 2410,
+						["hits"] = 5,
+					},
+				},
+			},
+			["Angelixal"] = {
+				["players"] = {
+				},
+				["hdone"] = 21816,
+				["htakenspell"] = {
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 41770,
+						["hits"] = 2,
+					},
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 3567,
+						["hits"] = 7,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 17786,
+						["healing"] = 17786,
+						["overhealing"] = 189316,
+						["hits"] = 9,
+					},
+					["Judgment of Light"] = {
+						["min"] = 2015,
+						["crits"] = 0,
+						["max"] = 2015,
+						["healing"] = 4030,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 3567,
+						["hits"] = 7,
+					},
+				},
+			},
+			["Jamaquel"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 41769,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Nîte"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 40022,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stormwind City Guard"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 41771,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ozdron"] = {
+				["players"] = {
+				},
+				["hdone"] = 19347,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 8591,
+						["crits"] = 0,
+						["max"] = 8592,
+						["healing"] = 17183,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Effuse"] = {
+						["min"] = 19347,
+						["crits"] = 0,
+						["max"] = 19347,
+						["healing"] = 19347,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Eye of the Tiger"] = {
+						["min"] = 0,
+						["crits"] = 2,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10399,
+						["hits"] = 3,
+					},
+					["Holy Prism"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 17786,
+						["healing"] = 17786,
+						["overhealing"] = 23984,
+						["hits"] = 2,
+					},
+					["Judgment of Light"] = {
+						["min"] = 2015,
+						["crits"] = 0,
+						["max"] = 2015,
+						["healing"] = 4030,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 58346,
+				["hdonespell"] = {
+					["Eye of the Tiger"] = {
+						["min"] = 0,
+						["crits"] = 2,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10399,
+						["hits"] = 3,
+					},
+					["Effuse"] = {
+						["min"] = 19347,
+						["crits"] = 0,
+						["max"] = 19347,
+						["healing"] = 19347,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Kandric"] = {
+				["players"] = {
+				},
+				["hdone"] = 1148,
+				["htakenspell"] = {
+					["Greater Blessing of Wisdom"] = {
+						["min"] = 574,
+						["crits"] = 0,
+						["max"] = 574,
+						["healing"] = 1148,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1148,
+				["hdonespell"] = {
+					["Greater Blessing of Wisdom"] = {
+						["min"] = 574,
+						["crits"] = 0,
+						["max"] = 574,
+						["healing"] = 1148,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+		},
+		["mobtaken"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1470958998,
+		["damagetaken"] = 0,
+		["mobhdone"] = 82858,
+		["last_action"] = 1470958998,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

@@ -1,0 +1,13 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Thafur - Undermine"] = "Thafur - Undermine",
+	},
+	["profiles"] = {
+		["Thafur - Undermine"] = {
+			["PositionY"] = 614.999938964844,
+			["Shown"] = false,
+			["PositionX"] = 847.5,
+		},
+	},
+}

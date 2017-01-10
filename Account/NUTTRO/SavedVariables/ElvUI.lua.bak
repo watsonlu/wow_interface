@@ -1,0 +1,44 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["gold"] = {
+		["Wyrmrest Accord"] = {
+			["Beyblade"] = 403777156,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["unitframe"] = {
+			["ChannelTicks"] = {
+				["Insanity"] = 3,
+				["Mind Flay"] = 3,
+			},
+		},
+	},
+	["profiles"] = {
+		["Beyblade - Wyrmrest Accord"] = {
+			["movers"] = {
+				["ElvUF_Raid40Mover"] = "TOPLEFTElvUIParentBOTTOMLEFT4424",
+				["ShiftAB"] = "TOPLEFTElvUIParentBOTTOMLEFT4764",
+				["ElvUF_PartyMover"] = "BOTTOMLEFTElvUIParentBOTTOMLEFT4195",
+				["ElvUF_RaidMover"] = "TOPLEFTElvUIParentBOTTOMLEFT4427",
+				["ElvUF_RaidpetMover"] = "TOPLEFTElvUIParentBOTTOMLEFT4736",
+			},
+			["bagsOffsetFixed"] = true,
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Beyblade - Wyrmrest Accord"] = {
+		},
+	},
+}

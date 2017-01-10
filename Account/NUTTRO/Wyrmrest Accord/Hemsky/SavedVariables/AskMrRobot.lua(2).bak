@@ -1,0 +1,77 @@
+
+AmrDb = {
+	["Talents"] = {
+		"0000000", -- [1]
+		"0000000", -- [2]
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Hemsky",
+	["Race"] = "Human",
+	["ActiveSpec"] = 1,
+	["Level"] = 100,
+	["Equipped"] = {
+		{
+		}, -- [1]
+	},
+	["Specs"] = {
+		13, -- [1]
+		12, -- [2]
+	},
+	["Options"] = {
+	},
+	["Region"] = "US",
+	["Currencies"] = {
+		[614] = 7,
+		[515] = 14,
+		[392] = 810,
+		[823] = 121,
+		[-1] = 0,
+		[615] = 1,
+	},
+	["Glyphs"] = {
+		{
+		}, -- [1]
+		{
+		}, -- [2]
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 1,
+		["_lastZone"] = "SMV Alliance Garrison Level 2",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+		[1269] = 7,
+		[1337] = 3,
+		[1341] = 3,
+		[1375] = 0,
+		[1387] = 4,
+		[1376] = 3,
+		[1435] = 6,
+		[1388] = 0,
+		[1270] = 3,
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Wyrmrest Accord",
+	["Class"] = "MAGE",
+}

@@ -1,0 +1,66 @@
+VER 3 010000000000000E "Bind Elemental" "INV_MISC_QUESTIONMARK"
+#showtooltip Bind Elemental
+/script UIErrorsFrame:UnregisterEvent("UI_ERROR_MESSAGE")
+/cast Earth Elemental Totem
+/cast Fire Elemental Totem
+/cast Reinforce
+/cast Empower
+/cast [@mouseover,exists][@target,exists][@player] Greater Healing Wave
+END
+VER 3 0100000000000001 "Chain Heal" "SPELL_NATURE_HEALINGWAVEGREATER"
+#show Chain Heal
+/cast Chain Heal
+/train
+END
+VER 3 0100000000000004 "Greater Mouseove" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Greater Healing Wave
+END
+VER 3 0100000000000006 "Mouseover Chain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Chain Heal
+END
+VER 3 0100000000000009 "Mouseover decuse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Purify Spirit
+END
+VER 3 0100000000000005 "Mouseover Riptid" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Riptide
+END
+VER 3 0100000000000007 "Mouseover Surge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Surge
+END
+VER 3 0100000000000003 "Mouseover Wave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Wave
+END
+VER 3 0100000000000008 "Mousover Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Earth Shield
+END
+VER 3 010000000000000A "Shield and Encha" "INV_MISC_QUESTIONMARK"
+/cast Water Shield
+/cast Earthliving Weapon
+END
+VER 3 010000000000000B "Sparking Shard" "INV_Inscription_ParchmentVar02"
+#showtooltip Sparking Shard
+/use Sparkling Shard
+END
+VER 3 0100000000000002 "Swift Heal" "ability_deathknight_boneshield"
+#showtooltip Greater Healing Wave
+/cast Ancestral Swiftness
+/cast [@mouseover] Greater Healing Wave
+END
+VER 3 010000000000000F "Swift Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip Greater Healing Wave
+/cast Ancestral Swiftness
+/cast [@mouseover] Greater Healing Wave
+END
+VER 3 010000000000000C "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000D "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Vor[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

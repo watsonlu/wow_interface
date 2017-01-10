@@ -1,0 +1,13 @@
+VER 3 0100000000000001 "frost freeze" "INV_MISC_QUESTIONMARK"
+#show Frostbolt
+/cast freeze
+/cast frostbolt
+END
+VER 3 0100000000000002 "selling macro" "INV_MISC_QUESTIONMARK"
+#showtooltip Volcanospike
+/2 Selling  |cffa335ee|Hitem:71006:0:0:0:0:0:0:1556438528:90:0:0|h[Volcanospike]|h|r, 1000g, PST
+END
+VER 3 0100000000000003 "slowfall panic" "INV_MISC_QUESTIONMARK"
+#showtooltip Slow Fall
+/cast [@player]  Slow Fall
+END

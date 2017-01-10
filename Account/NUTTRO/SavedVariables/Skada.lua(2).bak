@@ -1,0 +1,98 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Real - Zul'jin"] = "RealUI",
+		["Riems - Darkspear"] = "RealUI",
+	},
+	["profiles"] = {
+		["RealUI"] = {
+			["modules"] = {
+				["notankwarnings"] = true,
+			},
+			["onlykeepbosses"] = true,
+			["columns"] = {
+				["Healing_Healing"] = false,
+				["Damage_Damage"] = false,
+			},
+			["hidesolo"] = true,
+			["windows"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["barbgcolor"] = {
+						["a"] = 0,
+						["b"] = 0.3019607843137255,
+						["g"] = 0.3019607843137255,
+						["r"] = 0.3019607843137255,
+					},
+					["barcolor"] = {
+						["b"] = 0.05098039215686274,
+						["g"] = 0.05098039215686274,
+						["r"] = 0.05098039215686274,
+					},
+					["barfontsize"] = 8,
+					["classicons"] = false,
+					["barslocked"] = true,
+					["barorientation"] = 3,
+					["mode"] = "Buff uptimes",
+					["spark"] = false,
+					["bartexture"] = "Plain80",
+					["barwidth"] = 190,
+					["y"] = 22.5,
+					["x"] = -32,
+					["title"] = {
+						["font"] = "pixel_small",
+						["fontsize"] = 8,
+						["color"] = {
+							["a"] = 0,
+							["r"] = 0.1058823529411765,
+							["g"] = 0.1058823529411765,
+							["b"] = 0.3019607843137255,
+						},
+						["height"] = 17,
+						["fontflags"] = "OUTLINEMONOCHROME",
+						["texture"] = "Flat",
+					},
+					["barfont"] = "pixel_small",
+					["barfontflags"] = "OUTLINEMONOCHROME",
+					["background"] = {
+						["color"] = {
+							["a"] = 0,
+							["b"] = 0.5019607843137255,
+						},
+						["height"] = 150,
+					},
+				}, -- [1]
+			},
+			["hidedisables"] = false,
+			["icon"] = {
+				["hide"] = true,
+			},
+			["report"] = {
+				["channel"] = "Guild",
+			},
+		},
+		["Default"] = {
+			["modules"] = {
+				["notankwarnings"] = true,
+			},
+			["onlykeepbosses"] = true,
+			["icon"] = {
+				["hide"] = true,
+			},
+			["windows"] = {
+				{
+					["y"] = 175.5,
+					["x"] = 0,
+					["barslocked"] = true,
+					["bartexture"] = "Flat",
+					["set"] = "total",
+					["point"] = "BOTTOMRIGHT",
+				}, -- [1]
+			},
+		},
+	},
+}

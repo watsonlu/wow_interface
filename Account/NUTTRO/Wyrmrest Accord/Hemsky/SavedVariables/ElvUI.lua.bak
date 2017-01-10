@@ -1,0 +1,8 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/reflux switch Laptop", -- [1]
+	},
+	["ChatLog"] = {
+	},
+}

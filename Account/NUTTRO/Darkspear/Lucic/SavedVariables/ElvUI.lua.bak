@@ -1,0 +1,117 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/elvui", -- [1]
+		"/elvui reset", -- [2]
+	},
+	["ChatLog"] = {
+		["1397323940.144"] = {
+			"somone get enginer", -- [1]
+			"Missôak-Frostmourne", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Missôak-Frostmourne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1131, -- [11]
+			"0x0300000008F51F49", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1397323946.81"] = {
+			"i got the engineer", -- [1]
+			"Tottle-Aman'Thul", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tottle-Aman'Thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1132, -- [11]
+			"0x0300000003A79054", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1397323921.063"] = {
+			"yay a tank!", -- [1]
+			"Tottle-Aman'Thul", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tottle-Aman'Thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1130, -- [11]
+			"0x0300000003A79054", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1397323947.926"] = {
+			"aspect off pls", -- [1]
+			"Paintbox-Proudmoore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Paintbox-Proudmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1133, -- [11]
+			"0x0300000007E0739C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1397323910.147"] = {
+			"kick armoredfury", -- [1]
+			"Chizmo-Arathor", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Chizmo-Arathor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1121, -- [11]
+			"0x0100000005627435", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1397323917.159"] = {
+			"coz alot of dps think they can just burn him down ", -- [1]
+			"Missôak-Frostmourne", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Missôak-Frostmourne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1129, -- [11]
+			"0x0300000008F51F49", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+	},
+}

@@ -1,0 +1,71 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Beyblade",
+	["Race"] = "Human",
+	["ActiveSpec"] = 1,
+	["Level"] = 100,
+	["Equipped"] = {
+		[2] = {
+			"|cffa335ee|Hitem:115407:0:0:0:0:0:0:0:100:0:1:0|h[Tehax's Penetrating Visage]|h|r", -- [1]
+			"|cffa335ee|Hitem:113662:5285:0:0:0:0:0:0:100:0:3:0|h[Collar of Wailing Mouths]|h|r", -- [2]
+			"|cffa335ee|Hitem:113884:0:0:0:0:0:0:0:100:0:3:1:560|h[Unstable Slag Shoulderplates]|h|r", -- [3]
+			nil, -- [4]
+			"|cffa335ee|Hitem:113881:0:0:0:0:0:0:0:100:0:3:0|h[Chestplate of Rolling Fury]|h|r", -- [5]
+			"|cffa335ee|Hitem:114233:0:0:0:0:0:0:0:100:0:13:3:525:534:117|h[Truesteel Waistguard of the Feverflare]|h|r", -- [6]
+			"|cffa335ee|Hitem:116231:0:0:0:0:0:0:0:100:0:4:1:42|h[Legplates of Arcanic Absorbtion]|h|r", -- [7]
+			"|cffa335ee|Hitem:113633:0:0:0:0:0:0:0:100:0:3:0|h[Entrail Squishers]|h|r", -- [8]
+			"|cffa335ee|Hitem:118954:0:0:0:0:0:0:0:100:0:11:2:151:591|h[Bouldercrush Vambraces of the Aurora]|h|r", -- [9]
+			"|cffa335ee|Hitem:115428:0:0:0:0:0:0:0:100:0:0:0|h[Gauntlets of Impenetrability]|h|r", -- [10]
+			"|cffa335ee|Hitem:115441:5324:0:0:0:0:0:0:100:0:0:1:41|h[Callie's Charred Seal]|h|r", -- [11]
+			"|cffa335ee|Hitem:118298:5324:0:0:0:0:0:0:100:0:11:0|h[Timeless Solium Band of the Bulwark]|h|r", -- [12]
+			"|cffa335ee|Hitem:113645:0:0:0:0:0:0:0:100:0:3:0|h[Tectus' Beating Heart]|h|r", -- [13]
+			"|cffa335ee|Hitem:112319:0:0:0:0:0:0:0:100:0:13:2:525:529|h[Knight's Badge]|h|r", -- [14]
+			"|cffa335ee|Hitem:113637:5310:0:0:0:0:0:0:100:0:3:0|h[Cloak of Frenzied Rage]|h|r", -- [15]
+			"|cffa335ee|Hitem:115328:0:0:0:0:0:0:0:100:0:1:2:486:41|h[Grandiose Greataxe of the Decimator]|h|r", -- [16]
+			"|cff0070dd|Hitem:116453:0:0:0:0:0:0:0:100:0:13:3:83:525:549|h[Steelforged Greataxe of the Savage]|h|r", -- [17]
+		},
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "US",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 1,
+		["_lastZone"] = "SMV Alliance Garrison Level 3",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Wyrmrest Accord",
+	["Class"] = "WARRIOR",
+}

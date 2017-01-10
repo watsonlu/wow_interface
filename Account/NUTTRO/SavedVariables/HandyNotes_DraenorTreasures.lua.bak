@@ -1,0 +1,10 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Zapdos - Wyrmrest Accord"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

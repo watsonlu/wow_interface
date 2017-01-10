@@ -1,0 +1,35 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Havlat - Wyrmrest Accord"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.3.2",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = -4.670300404541194e-005,
+			["y"] = -2.335150202270597e-005,
+			["gridHeight"] = 399.9999694824219,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Havlat - Wyrmrest Accord"] = "Havlat - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Havlat - Wyrmrest Accord"] = {
+			["sets"] = {
+				{
+					["items"] = {
+						["TabardSlot"] = 40643,
+					},
+					["name"] = "Set 1",
+					["alternateItems"] = {
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

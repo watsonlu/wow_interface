@@ -1,0 +1,19 @@
+
+LoggerHeadDB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["log"] = {
+				["party"] = {
+					["Eye of Azshara"] = {
+						[2] = true,
+						[23] = true,
+					},
+				},
+			},
+			["version"] = 3,
+		},
+	},
+}

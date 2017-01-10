@@ -1,0 +1,37 @@
+VER 3 010000000000000B "Bloodstorm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura bladestorm
+/use [talent:6/1]Avatar;[talent:6/2]Bloodbath;[talent:6/3]Bladestorm
+END
+VER 3 0100000000000005 "cancelaura" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Bladestorm
+END
+VER 3 0100000000000006 "Charge Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip [harm] charge; [help] intervene; Heroic Leap
+/cast [nomod,harm,nodead] Charge;[nomod,@mouseover,help,nodead] Intervene; [mod:shift] Heroic Leap
+END
+VER 3 0100000000000009 "Cooldown" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Demoralizing Shout; [mod:shift] Last Stand
+END
+VER 3 0100000000000003 "HThrow Mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover] Heroic Throw; [nomod] Devastate
+END
+VER 3 0100000000000007 "Mocking" "INV_MISC_QUESTIONMARK"
+#showtooltip Mocking Banner
+/targetexact Mocking Banner
+/cast [noraid, noparty, noharm] Intervene
+/targetlasttarget [noraid, noparty, noharm, exists]
+/cast Mocking Banner
+END
+VER 3 010000000000000A "Mount Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Crimson Pandaren Phoenix; [nomod] Garn Nighthowl; [mod:ctrl] Sunhide Gronnling
+END
+VER 3 0100000000000002 "Vilience" "INV_MISC_QUESTIONMARK"
+#showtooltip Vigilance
+/cast [nomod] Vigilance; [mod:shift, @mouseover] Vigilance
+END

@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Phosphorescent Stone Drake; [nomod] Cenarion War Hippogryph; [mod:ctrl] Sunhide Gronnling
+END

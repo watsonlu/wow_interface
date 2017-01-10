@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Crimson Pandaren Phoenix; [nomod]Garn Nighthowl; [mod:ctrl] Sunhide Gronnling
+END

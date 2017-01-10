@@ -1,0 +1,13 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Beyblade - Wyrmrest Accord"] = {
+			["PositionY"] = 615,
+			["Shown"] = false,
+			["PositionX"] = 847.968688964844,
+		},
+	},
+}
