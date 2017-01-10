@@ -1,5 +1,0 @@
-VER 3 0100000000000001 "OH SHIT" "INV_MISC_QUESTIONMARK"
-#showtooltip Slow Fall
-/dismount
-/cast [@player] Slow Fall
-END

@@ -5,7 +5,15 @@ LoggerHeadDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["log"] = {
+				["raid"] = {
+					["Icecrown Citadel"] = {
+						[6] = true,
+					},
+				},
+			},
 			["version"] = 3,
+			["chat"] = true,
 		},
 	},
 }

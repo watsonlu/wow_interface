@@ -1,10 +1,10 @@
 
 MogItDB = {
-	["global"] = {
-		["version"] = "3.6.5",
-	},
 	["profileKeys"] = {
 		["Beyblade - Wyrmrest Accord"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.6.5",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -14,11 +14,11 @@ MogItDB = {
 	},
 }
 MogItWishlist = {
-	["profileKeys"] = {
-		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
-	},
 	["global"] = {
 		["version"] = 70100,
+	},
+	["profileKeys"] = {
+		["Beyblade - Wyrmrest Accord"] = "Beyblade - Wyrmrest Accord",
 	},
 	["profiles"] = {
 		["Beyblade - Wyrmrest Accord"] = {

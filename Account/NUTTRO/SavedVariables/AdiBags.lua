@@ -18,17 +18,17 @@ AdiBagsDB = {
 		},
 		["Legion"] = {
 		},
-		["MoneyFrame"] = {
-		},
-		["CurrencyFrame"] = {
+		["Equipment"] = {
 		},
 		["DataSource"] = {
 		},
 		["ItemSets"] = {
 		},
+		["CurrencyFrame"] = {
+		},
 		["Junk"] = {
 		},
-		["Equipment"] = {
+		["MoneyFrame"] = {
 		},
 	},
 	["profileKeys"] = {

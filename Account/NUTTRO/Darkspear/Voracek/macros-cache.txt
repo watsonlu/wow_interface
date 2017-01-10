@@ -1,9 +1,0 @@
-VER 3 0100000000000001 "Charge" "INV_MISC_QUESTIONMARK"
-#showtooltip Charge
-/train
-/castsequence [harm] reset=20 Charge; [help] Safeguard
-/cast Battle Shout
-END
-VER 3 0100000000000002 "Dere give me mig" "INV_MISC_QUESTIONMARK"
-/g DERE GIVE ME MIGHT
-END
